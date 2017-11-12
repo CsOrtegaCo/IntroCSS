@@ -23,3 +23,7 @@ p {
 body {
   background-color:#0C0000;color:#F7F7F7;
 }
+
+img {
+  display:inline;
+}
