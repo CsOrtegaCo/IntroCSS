@@ -1,5 +1,7 @@
 h1 {
-  background-color:#f41010; text-align:center;font-size:2.5em;
+  background-color:#f41010; 
+  text-align:center;
+  font-size:2.5em;
 }
 
 tr:nth-child(even) {
@@ -18,10 +20,12 @@ a {
     color:#0AFFFA;
 }
 p {
-  font-family:Arial;text-align:center;
+  font-family:Arial;
+  text-align:center;
 }
 body {
-  background-color:#0C0000;color:#F7F7F7;
+  background-color:#0C0000;
+  color:#F7F7F7;
 }
 
 img {
