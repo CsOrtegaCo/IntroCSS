@@ -3,7 +3,7 @@ h1 {
 }
 
 tr:nth-child(even) {
-  background-color:#BFBEBE
+  background-color:#BFBEBE;
 }
 
 table {
@@ -19,4 +19,7 @@ a:link {
 }
 p {
   font-family:Arial;
+}
+body {
+  background-color:#0C0000;
 }
